@@ -1,0 +1,10 @@
+const CONFIGDATA = {
+  titleHeader: "Hii em nèe❤️",
+  descriptionHeader:
+    "Nếu thoát ra và không trả lời thì có nghĩa là đồng ý nhóoo^^",
+  buttonYes: "Đồng Ý",
+  buttonNo: "Không! Còn lâu nhé.",
+  titleModar: "AWW biết là sẽ đồng ý mà:33",
+  descriptionModar:
+    'Iu thương rất nhiều luônnn </br> I love You❤️',
+};
